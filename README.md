@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjc12 (Matthew Cummings)
 - 👀 I’m interested in ... Linux, Open Source Software, Networking, and Computer Security
 - 🌱 I’m currently learning ... Operating Systems, Discrete Structures, Report Writing, and Linux (always Linux...)
-- 🌱 My dream job is ... Working at ESL, ESEA, or FACEIT using my Cybersecurity degree (anticheat, networking, sysadmin, etc.)
+- 🌱 My dream job is ... Working at ESL, ESEA, or FACEIT using my Cybersecurity degree (anticheat, network engineer, sysadmin, etc.)
 - 📫 How to reach me ... mcummings@pm.me, @mjc12_ on twitter
