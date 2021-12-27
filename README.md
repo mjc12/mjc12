@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... Linux, FLOSS (free/libre open source software), and Computer Security
 - 🌱 I’m currently learning ... Operating Systems, Discrete Structures, Report Writing, and Linux (always Linux...)
 - 🧠 My dream job is ... Working at ESL, ESEA, or FACEIT using my Cybersecurity degree (anticheat, network engineer, sysadmin, etc.)
-- 📫 How to reach me ... mcummings@pm.me, "https://twitter.com/mjc12_"
+- 📫 How to reach me ... email mcummings@pm.me or on twitter @mjc12_
